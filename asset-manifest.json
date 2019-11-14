@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dogShowShow/static/css/main.d44b3f88.chunk.css",
+    "main.js": "/dogShowShow/static/js/main.b98c173d.chunk.js",
+    "main.js.map": "/dogShowShow/static/js/main.b98c173d.chunk.js.map",
+    "runtime-main.js": "/dogShowShow/static/js/runtime-main.8635edce.js",
+    "runtime-main.js.map": "/dogShowShow/static/js/runtime-main.8635edce.js.map",
+    "static/js/2.c19cb2da.chunk.js": "/dogShowShow/static/js/2.c19cb2da.chunk.js",
+    "static/js/2.c19cb2da.chunk.js.map": "/dogShowShow/static/js/2.c19cb2da.chunk.js.map",
+    "index.html": "/dogShowShow/index.html",
+    "precache-manifest.d27bcc9131c1783a68f3380a04fdfc31.js": "/dogShowShow/precache-manifest.d27bcc9131c1783a68f3380a04fdfc31.js",
+    "service-worker.js": "/dogShowShow/service-worker.js",
+    "static/css/main.d44b3f88.chunk.css.map": "/dogShowShow/static/css/main.d44b3f88.chunk.css.map",
+    "static/media/fonts.css": "/dogShowShow/static/media/SupermercadoOne-Regular.8affd248.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8635edce.js",
+    "static/js/2.c19cb2da.chunk.js",
+    "static/css/main.d44b3f88.chunk.css",
+    "static/js/main.b98c173d.chunk.js"
+  ]
+}
