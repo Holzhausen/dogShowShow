@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Eczar';
+    src: local('Eczar'), url(../fonts/Eczar/Eczar-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Heebo';
+    src: local('Heebo'), url(../fonts/Heebo/Heebo-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lobster';
+    src: local('Lobster'), url(../fonts/Lobster/Lobster-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'IBM_Plex_Sans';
+    src: local('IBM_Plex_Sans'), url(../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Supermercado_One';
+    src: local('Supermercado_One'), url(../fonts/Supermercado_One/SupermercadoOne-Regular.ttf) format('truetype');
+}
+
+/*
+
+@import url('https://fonts.googleapis.com/css?family=Eczar:600|Heebo|IBM+Plex+Sans:600|Lobster|Supermercado+One&display=swap');
+    font-family: 'Eczar', serif;
+
+    font-family: 'Heebo', sans-serif;
+
+    font-family: 'IBM Plex Sans', sans-serif;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Supermercado One', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Eczar:600|Heebo|IBM+Plex+Sans:600|Lobster|Supermercado+One&display=swap" rel="stylesheet"> 
+
+*/
+
